@@ -120,13 +120,13 @@ endmodule
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
 ### SIPO
-![d4](https://user-images.githubusercontent.com/93427345/201481977-78c275fa-1fac-41c8-8c82-7bd1938738e3.png)
+![1](https://user-images.githubusercontent.com/93427345/202355175-b4d6f34a-d95b-4060-ac53-58c2563d9f23.PNG)
 
 ### PISO
-![d5](https://user-images.githubusercontent.com/93427345/201481993-8e9e48fd-aa4c-4d90-a53e-1aad09c88b06.png)
+![2](https://user-images.githubusercontent.com/93427345/202355188-d8ffda0c-2976-4b84-90e0-5d8163ad763f.PNG)
 
 ### PIPO
-![d6](https://user-images.githubusercontent.com/93427345/201482002-aed58486-fe98-4444-8b57-9cfee591e796.png)
+![3](https://user-images.githubusercontent.com/93427345/202355203-7326964f-ecb1-4adb-99bf-ae8020fea2a2.PNG)
 
 ### RESULTS 
 Hence SIPO,PISO and PIPO are implemented using verilog programming and their functionality is validated successfully.
